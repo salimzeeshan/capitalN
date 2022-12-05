@@ -61,9 +61,7 @@
 
 <div>
   <h3>Contact</h3>
-    gmail:- <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a>
-    mobile:- <a href="tel:7795334086" target="_blank">+91 7795334086</a>
-    linkedin:- <a href="https://www.linkedin.com/in/nikhil-angolkar-62722a19b/" target="_blank">Nikhil Angolkar</a>
+  <a href="tel:7795334086" target="_blank">7795334086</a> | <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a> | <a href="https://www.linkedin.com/in/nikhil-angolkar-62722a19b/" target="_blank">LinkedIn</a>
 </div>
 </div>
 
