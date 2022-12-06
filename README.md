@@ -1,7 +1,7 @@
  <div align="center">
  <h2>Hi there! ✋</h2>
   <p>
-    I’m nikhil angolkar, currently learning Full Stack Web Development Programme and DSA at Masai School. I love to build websites and help people through my work.
+    I’m nikhil angolkar, currently learning Full Stack Web Development Programme and DSA at Masai School. I am passionate to build fully functional and interactive web applications.
 <div>
   <h3>Programming languages</h3>
   <p>
@@ -40,28 +40,28 @@
       />
     </p>
 </div>
+ 
+ <div>
+  <h3>Contact</h3>
+  <a href="tel:7795334086" target="_blank">7795334086</a> | <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a> | <a href="https://www.linkedin.com/in/nikhil-angolkar-62722a19b/" target="_blank">LinkedIn</a>
+</div>
 
 <div>
   <h3>Statistics</h3>
   <p>
     <img
-      align="center"
+      align="left" width="47%" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=capitalN&show_icons=true&locale=en&layout=compact"
       alt="nikhil angolkar"
     />
   </p>
   <p>
     &nbsp;<img
-      align="center"
+      align="right" width="47%" 
       src="https://github-readme-stats.vercel.app/api?username=capitalN&show_icons=true&locale=en"
       alt="nikhil angolkar"
     />
   </p>
-</div>
-
-<div>
-  <h3>Contact</h3>
-  <a href="tel:7795334086" target="_blank">7795334086</a> | <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a> | <a href="https://www.linkedin.com/in/nikhil-angolkar-62722a19b/" target="_blank">LinkedIn</a>
 </div>
 </div>
 
