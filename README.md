@@ -1,7 +1,21 @@
  <div align="center">
- <h2>Hi there! ✋</h2>
-  <p>
-    I’m nikhil angolkar, currently learning Full Stack Web Development Programme and DSA at Masai School. I am passionate to build fully functional and interactive web applications.
+ <h2>Hi there! ✋ im Nikhil Angolkar</h2>
+<img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
+<br>
+<br>
+ 
+  <div align="left">
+- 👨‍💻 Portfolio availaible at https://nikhil-portfolio.vercel.app/
+
+- 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
+
+- 📫 How to reach me **angolkarnikhil@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing
+<br>
+
+</div>
+   
 <div>
   <h3>Programming languages</h3>
   <p>
