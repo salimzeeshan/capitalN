@@ -42,6 +42,13 @@
 </div>
  
  <div>
+   <h3>Projects</h3>
+   <a href="7795334086" target="_blank">Lately</a>
+   <a href="7795334086" target="_blank">Freshly</a>
+   <a href="7795334086" target="_blank">Youtube</a>
+ </div>
+ 
+ <div>
   <h3>Contact</h3>
   <a href="7795334086" target="_blank">7795334086</a> | <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a> | <a href="https://www.linkedin.com/in/nikhil-angolkar-62722a19b/" target="_blank">LinkedIn</a>
 </div>
