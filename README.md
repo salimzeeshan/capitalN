@@ -44,7 +44,9 @@
  <div>
    <h3>Projects</h3>
    <a href="7795334086" target="_blank">Lately</a>
+  <br/>
    <a href="7795334086" target="_blank">Freshly</a>
+    <br/>
    <a href="7795334086" target="_blank">Youtube</a>
  </div>
  
