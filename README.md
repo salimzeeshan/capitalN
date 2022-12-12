@@ -43,11 +43,11 @@
  
  <div>
    <h3>Projects</h3>
-   <a href="7795334086" target="_blank">Lately</a>
+   <a href="7795334086" target="_blank">Lately</a> is a ai based content creating website
   <br/>
-   <a href="7795334086" target="_blank">Freshly</a>
+   <a href="7795334086" target="_blank">Freshly</a> is prepared meal and delivery website
     <br/>
-   <a href="7795334086" target="_blank">Youtube</a>
+   <a href="7795334086" target="_blank">Youtube</a> is the video creating and sharing website
  </div>
  
  <div>
