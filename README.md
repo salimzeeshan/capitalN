@@ -5,7 +5,7 @@
 <br>
  
   <div align="left">
-- 👨‍💻 Portfolio availaible at https://nikhil-portfolio.vercel.app/
+- 👨‍💻 Portfolio availaible at [https://nikhil-portfolio.vercel.app/](https://capitaln.github.io/)
 
 - 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
 
