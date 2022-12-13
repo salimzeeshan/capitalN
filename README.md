@@ -1,19 +1,19 @@
  <div align="center">
  <h2>Hi there! ✋ im Nikhil Angolkar</h2>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
-<br>
-<br>
  
+ <h3>About</h3>
   <div align="left">
-- 👨‍💻 Portfolio availaible at (https://capitaln.github.io/)
-
-- 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
-
-- 📫 How to reach me **angolkarnikhil@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing
-<br>
-
+   <ul>
+    <li>I’m currently learning Full Stack Web Development Programme and DSA at Masai School.</li>
+    <br/>
+    <li>Gmail <a href="mailto:angolkarnikhil@gmail.com" target="_blank">angolkarnikhil@gmail.com</a></li>
+    <br/>
+    <li>Portfolio availaible at https://capitaln.github.io/</li>
+    <br/>
+    <li>Resume available at <a href="https://drive.google.com/file/d/1GtZiQIVtAi8ap6WSe38hKNHeB_c4T4eg/view" target="_blank">nikhil_angolkar_resume</a> </li>
+    <br/>
+   </ul>
 </div>
    
 <div>
@@ -54,15 +54,6 @@
       />
     </p>
 </div>
- 
- <div>
-   <h3>Projects</h3>
-   <a href="7795334086" target="_blank">Lately</a> is a ai based content creating website
-  <br/>
-   <a href="7795334086" target="_blank">Freshly</a> is prepared meal and delivery website
-    <br/>
-   <a href="7795334086" target="_blank">Youtube</a> is the video creating and sharing website
- </div>
  
  <div>
   <h3>Contact</h3>
